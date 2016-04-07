@@ -1,0 +1,8 @@
+C:\Users\Usuario\Documents\GitHub\AgendaUneme\AgendaUneme\UnemeOncologia\bin\Debug\UnemeOncologia.exe
+C:\Users\Usuario\Documents\GitHub\AgendaUneme\AgendaUneme\UnemeOncologia\bin\Debug\UnemeOncologia.pdb
+C:\Users\Usuario\Documents\GitHub\AgendaUneme\AgendaUneme\UnemeOncologia\obj\Debug\UnemeOncologia.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\GitHub\AgendaUneme\AgendaUneme\UnemeOncologia\obj\Debug\UnemeOncologia.Form1.resources
+C:\Users\Usuario\Documents\GitHub\AgendaUneme\AgendaUneme\UnemeOncologia\obj\Debug\UnemeOncologia.Properties.Resources.resources
+C:\Users\Usuario\Documents\GitHub\AgendaUneme\AgendaUneme\UnemeOncologia\obj\Debug\UnemeOncologia.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\GitHub\AgendaUneme\AgendaUneme\UnemeOncologia\obj\Debug\UnemeOncologia.exe
+C:\Users\Usuario\Documents\GitHub\AgendaUneme\AgendaUneme\UnemeOncologia\obj\Debug\UnemeOncologia.pdb
